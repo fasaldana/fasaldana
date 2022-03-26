@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my profile
+I'm currrently a student at @microverseinc and at UTPL Ecuador.
+
 
 <!--
 **fasaldana/fasaldana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
