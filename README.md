@@ -1,5 +1,4 @@
 ![Profile views](https://gpvc.arturio.dev/fasaldana)
-
 ### Hi there 👋, my name is Fernando
 # Welcome to my profile
 I'm currrently a student at @microverseinc and at UTPL Ecuador.
