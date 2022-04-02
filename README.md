@@ -1,22 +1,18 @@
 ### Welcome to my profile
 I'm currrently a student at @microverseinc and at UTPL Ecuador.
 
+### Hi there 👋, my name is Fernando
+#### Full-stack developer
 
-<!--
-**fasaldana/fasaldana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fasaldana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernando-saldana-8bbb89228/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Fernandosal98)  
 
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasaldana&theme=dark&layout=compact)](https://github.com/fasaldana/github-readme-stats)
-[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasaldana&show_icons=true&theme=dark)](https://github.com/fasaldana/github-readme-stats)
+
+[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasaldana&show_icons=true&theme=dark)](https://github.com/fasaldana/github-readme-stats) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fasaldana)  
+
+![Profile views](https://gpvc.arturio.dev/fasaldana)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fasaldana)](https://github.com/ryo-ma/github-profile-trophy)
