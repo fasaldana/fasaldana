@@ -23,6 +23,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fasaldana)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fasaldana)  
-
 ![GitHub metrics](https://metrics.lecoq.io/fasaldana)  
