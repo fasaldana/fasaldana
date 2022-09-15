@@ -22,5 +22,3 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fasaldana&theme=dark)    
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fasaldana)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/fasaldana)  
